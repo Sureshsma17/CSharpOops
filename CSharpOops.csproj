@@ -44,7 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArmstrongNumber.cs" />
+    <Compile Include="FibonacciSeries.cs" />
+    <Compile Include="InstanceCountStaticCountExample.cs" />
+    <Compile Include="MethodswithNoParameterNoReturnValue.cs" />
+    <Compile Include="MethodswithParametersNoReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
+    <Compile Include="PrimeNumber.cs" />
+    <Compile Include="ReverseOfString.cs" />
     <Compile Include="StarDecresing&amp;HollowPattern.cs" />
     <Compile Include="LargestAmongThreeNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -55,6 +61,8 @@
     <Compile Include="StarsInXpatternBox.cs" />
     <Compile Include="StarSquare&amp;HollowPattern.cs" />
     <Compile Include="StarPyramid&amp;HollowPattern.cs" />
+    <Compile Include="StringLengthWithoutUsingdotLength.cs" />
+    <Compile Include="VowelsNumberInString.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
