@@ -8,9 +8,9 @@
 //{
 //    internal class PrintNameWiithparameterWithoutReturnValue
 //    {
-//          class Myclas
+//        class Myclas
 //        {
-//            public void PrintName(string name) 
+//            public void PrintName(string name)
 //            {
 //                Console.WriteLine("My name is " + name);
 //            }

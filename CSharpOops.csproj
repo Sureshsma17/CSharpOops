@@ -46,12 +46,16 @@
     <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="FibonacciSeries.cs" />
     <Compile Include="InstanceCountStaticCountExample.cs" />
+    <Compile Include="MethodsNoParameterandReturnValue.cs" />
     <Compile Include="MethodswithNoParameterNoReturnValue.cs" />
     <Compile Include="MethodswithParametersNoReturnValue.cs" />
+    <Compile Include="MethodWithParameterWithReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="PrintNameWiithparameterWithoutReturnValue.cs" />
     <Compile Include="PrintNameWithotReturnWithoutParameter.cs" />
+    <Compile Include="PrintNameWithParameterWithReturnValue.cs" />
+    <Compile Include="PrintNameWithReturnTypeWithotParameters.cs" />
     <Compile Include="ReverseOfString.cs" />
     <Compile Include="StarDecresing&amp;HollowPattern.cs" />
     <Compile Include="LargestAmongThreeNumbers.cs" />

@@ -6,19 +6,22 @@
 
 //namespace CSharpOops
 //{
-//    internal class PrintNameWithotReturnWithoutParameter
+//    internal class PrintNameWithReturnTypeWithotParameters
 //    {
 //        class Myclass
 //        {
-//            public void PrintName()
+//            public string PrintName()
 //            {
-//                Console.WriteLine("Hello, My Name is Suresh");
+//                string name = "Suresh";
+//                return name;
 //            }
+
 //        }
 //        static void Main(string[] args)
 //        {
 //            Myclass myclass = new Myclass();
-//            myclass.PrintName(); 
+//            string result = myclass.PrintName();
+//            Console.WriteLine("The return value is: " + result);
 //        }
 //    }
 //}

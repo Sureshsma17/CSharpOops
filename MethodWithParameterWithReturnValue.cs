@@ -6,19 +6,22 @@
 
 //namespace CSharpOops
 //{
-//    internal class PrintNameWithotReturnWithoutParameter
+//    internal class MethodWithParameterWithReturnValue
 //    {
 //        class Myclass
 //        {
-//            public void PrintName()
+//            public int Sum(int a, int b)
 //            {
-//                Console.WriteLine("Hello, My Name is Suresh");
+//                int c;
+//                c = a + b;
+//                return c;
 //            }
 //        }
 //        static void Main(string[] args)
 //        {
 //            Myclass myclass = new Myclass();
-//            myclass.PrintName(); 
+//            int paramet = myclass.Sum(50, 45);
+//            Console.WriteLine("The return value is: " + paramet);
 //        }
 //    }
 //}
