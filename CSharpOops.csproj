@@ -50,6 +50,8 @@
     <Compile Include="MethodswithParametersNoReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
     <Compile Include="PrimeNumber.cs" />
+    <Compile Include="PrintNameWiithparameterWithoutReturnValue.cs" />
+    <Compile Include="PrintNameWithotReturnWithoutParameter.cs" />
     <Compile Include="ReverseOfString.cs" />
     <Compile Include="StarDecresing&amp;HollowPattern.cs" />
     <Compile Include="LargestAmongThreeNumbers.cs" />
