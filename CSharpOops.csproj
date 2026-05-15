@@ -55,6 +55,7 @@
     <Compile Include="MethodswithParametersNoReturnValue.cs" />
     <Compile Include="MethodWithParameterWithReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
+    <Compile Include="ParameterizedCarExample.cs" />
     <Compile Include="ParameterizedDataBaseConnection.cs" />
     <Compile Include="ParameterizedStudentd.cs" />
     <Compile Include="ParameterizedValuesStudent.cs" />
