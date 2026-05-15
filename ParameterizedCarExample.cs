@@ -25,6 +25,17 @@ namespace CSharpOops
             Console.WriteLine("Color of Car is: " + Color);
             Console.WriteLine("Manufacturing Year of Car is: " + Year);
         }
+        public void RestrictCarYear()
+        {
+            if(Year>=1886)
+            {
+                Console.WriteLine("Car Manufactured Year: "+ Year);
+            }
+            else
+            {
+                Console.WriteLine("Car not inveted at this Year: " + Year);
+            }
+        }
 
     }
     internal class ParameterizedCarExample
@@ -32,8 +43,10 @@ namespace CSharpOops
         static void Main(string[] args)
         {
             {
-                Car objcar = new Car("Toyota Vellfire", "White", 2026);
-                objcar.DisplayCarDetails();
+                //Car objcar = new Car("Toyota Vellfire", "White", 2026);
+                //objcar.DisplayCarDetails();
+                Car objRes = new Car("Toyota Vellfire", "White", 1885);
+                objRes.RestrictCarYear();
             }
         }
     }
