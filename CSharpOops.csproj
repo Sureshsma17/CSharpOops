@@ -44,13 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArmstrongNumber.cs" />
+    <Compile Include="ConstructorExample.cs" />
+    <Compile Include="EmployeeExampleConstructor.cs" />
+    <Compile Include="ExplicitORUserDefinedDefaultConstructor.cs" />
     <Compile Include="FibonacciSeries.cs" />
+    <Compile Include="ImplicirORSystemDefinedDefaultConstructor.cs" />
     <Compile Include="InstanceCountStaticCountExample.cs" />
     <Compile Include="MethodsNoParameterandReturnValue.cs" />
     <Compile Include="MethodswithNoParameterNoReturnValue.cs" />
     <Compile Include="MethodswithParametersNoReturnValue.cs" />
     <Compile Include="MethodWithParameterWithReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
+    <Compile Include="ParameterizedValuesStudent.cs" />
+    <Compile Include="ParameterizesConstructorAddingDefault.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="PrintNameWiithparameterWithoutReturnValue.cs" />
     <Compile Include="PrintNameWithotReturnWithoutParameter.cs" />
