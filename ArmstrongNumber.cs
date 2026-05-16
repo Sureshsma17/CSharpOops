@@ -8,8 +8,9 @@
 //{
 //    internal class ArmstrongNumber
 //    {
-//         static void Main(string[] args)
+//        static void Main(string[] args)
 //        {
+
 //            Console.WriteLine("Enter a Number:");
 //            int num = Convert.ToInt32(Console.ReadLine());
 //            int rem, temp, sum = 0;

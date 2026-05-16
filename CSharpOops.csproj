@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EmpPublicData">
+      <HintPath>..\EmpPublicData\bin\Debug\EmpPublicData.dll</HintPath>
+    </Reference>
+    <Reference Include="PublicData">
+      <HintPath>..\PublicData\bin\Debug\PublicData.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +52,7 @@
     <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />
+    <Compile Include="EmployeePublicAccess.cs" />
     <Compile Include="EmployeeExampleConstructor.cs" />
     <Compile Include="ExplicitORUserDefinedDefaultConstructor.cs" />
     <Compile Include="FibonacciSeries.cs" />
@@ -66,6 +73,8 @@
     <Compile Include="PrintNameWithotReturnWithoutParameter.cs" />
     <Compile Include="PrintNameWithParameterWithReturnValue.cs" />
     <Compile Include="PrintNameWithReturnTypeWithotParameters.cs" />
+    <Compile Include="PrivateAccessModifierBankExample.cs" />
+    <Compile Include="StudentPublicAccess.cs" />
     <Compile Include="ReverseOfString.cs" />
     <Compile Include="StarDecresing&amp;HollowPattern.cs" />
     <Compile Include="LargestAmongThreeNumbers.cs" />
