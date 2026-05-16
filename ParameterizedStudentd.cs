@@ -18,7 +18,7 @@
 //            Sname = "Suresh";
 //            Sfee = 40000;
 //        }
-//        public Student(int sid,string sname,double sfee)
+//        public Student(int sid, string sname, double sfee)
 //        {
 //            Sid = sid;
 //            Sname = sname;
@@ -27,7 +27,7 @@
 //        public void DisplayStudent()
 //        {
 //            Console.WriteLine("Student id is:" + Sid);
-//            Console.WriteLine("Student Name is:"+Sname);
+//            Console.WriteLine("Student Name is:" + Sname);
 //            Console.WriteLine("Stuedent fee is:" + Sfee);
 //        }
 //    }
@@ -38,7 +38,7 @@
 //            {
 //                Student s = new Student();
 //                s.DisplayStudent();
-//                Student stud = new Student(102,"Sai",50000);
+//                Student stud = new Student(102, "Sai", 50000);
 //                stud.DisplayStudent();
 //            }
 

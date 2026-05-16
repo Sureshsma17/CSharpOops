@@ -38,7 +38,7 @@
 //            }
 //        }
 //    }
-//    internal class ParameterizedDataBaseConnection
+//    internal class ConnectionString
 //    {
 //        static void Main(string[] args)
 //        {
