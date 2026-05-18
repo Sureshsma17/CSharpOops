@@ -59,6 +59,7 @@
     <Compile Include="FibonacciSeries.cs" />
     <Compile Include="ImplicirORSystemDefinedDefaultConstructor.cs" />
     <Compile Include="InstanceCountStaticCountExample.cs" />
+    <Compile Include="InternaAccessModifierExample.cs" />
     <Compile Include="MethodsNoParameterandReturnValue.cs" />
     <Compile Include="MethodswithNoParameterNoReturnValue.cs" />
     <Compile Include="MethodswithParametersNoReturnValue.cs" />
