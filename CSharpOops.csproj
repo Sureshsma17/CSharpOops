@@ -53,6 +53,7 @@
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />
     <Compile Include="ConstructorOverloadingExample.cs" />
+    <Compile Include="EmployeeDeatailsEndUserUsingArray.cs" />
     <Compile Include="EmployeePublicAccess.cs" />
     <Compile Include="EmployeeExampleConstructor.cs" />
     <Compile Include="ExplicitORUserDefinedDefaultConstructor.cs" />
@@ -94,6 +95,7 @@
     <Compile Include="StarPyramid&amp;HollowPattern.cs" />
     <Compile Include="StringLengthWithoutUsingdotLength.cs" />
     <Compile Include="Studentage18to60.cs" />
+    <Compile Include="ThisKeyEndUserArray.cs" />
     <Compile Include="ThisKeyStudent.cs" />
     <Compile Include="ThisKeywordExample.cs" />
     <Compile Include="VowelsNumberInString.cs" />
