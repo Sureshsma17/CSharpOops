@@ -52,6 +52,7 @@
     <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />
+    <Compile Include="ConstructorOverloadingEx.cs" />
     <Compile Include="ConstructorOverloadingExample.cs" />
     <Compile Include="EmployeeDeatailsEndUserUsingArray.cs" />
     <Compile Include="EmployeePublicAccess.cs" />
