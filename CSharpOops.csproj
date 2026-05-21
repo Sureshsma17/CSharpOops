@@ -94,6 +94,7 @@
     <Compile Include="StarPyramid&amp;HollowPattern.cs" />
     <Compile Include="StringLengthWithoutUsingdotLength.cs" />
     <Compile Include="Studentage18to60.cs" />
+    <Compile Include="ThisKeyStudent.cs" />
     <Compile Include="ThisKeywordExample.cs" />
     <Compile Include="VowelsNumberInString.cs" />
   </ItemGroup>
