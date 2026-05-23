@@ -12,11 +12,11 @@
 
 //        public void Deposit(double amount)
 //        {
-//            balance += amount;
+//            balance =balance+ amount;
 //        }
 //        public void Showbalance()
 //        {
-//            Console.WriteLine(" balance is:"+balance);
+//            Console.WriteLine(" balance is:" + balance);
 
 //        }
 //    }

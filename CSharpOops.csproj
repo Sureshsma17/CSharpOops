@@ -67,6 +67,7 @@
     <Compile Include="MethodswithParametersNoReturnValue.cs" />
     <Compile Include="MethodWithParameterWithReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
+    <Compile Include="OverloadingConstructor.cs" />
     <Compile Include="ParameterizedCarExample.cs" />
     <Compile Include="ParameterizedDataBaseConnection.cs" />
     <Compile Include="ParameterizedStudentd.cs" />
@@ -79,9 +80,15 @@
     <Compile Include="PrintNameWithReturnTypeWithotParameters.cs" />
     <Compile Include="PrivateAccessModifierBankExample.cs" />
     <Compile Include="PrivateAccessModifierExample%28Error%29.cs" />
+    <Compile Include="PrivateConstructorExample.cs" />
+    <Compile Include="PropertyGetSetExample.cs" />
     <Compile Include="ProtectedAccesModifierStudentExample.cs" />
     <Compile Include="ProtectedAccessModifierEx2.cs" />
     <Compile Include="ProtectedAccessModifierExample.cs" />
+    <Compile Include="PublicAccessModExample.cs" />
+    <Compile Include="SameDatatypeParameterizedconstructorEx.cs" />
+    <Compile Include="SOLIDPricipleConstructorExample.cs" />
+    <Compile Include="SOLIDPrincipleClassExample.cs" />
     <Compile Include="StudentPublicAccess.cs" />
     <Compile Include="ReverseOfString.cs" />
     <Compile Include="StarDecresing&amp;HollowPattern.cs" />
