@@ -86,6 +86,7 @@
     <Compile Include="PropertyGetSetExample.cs" />
     <Compile Include="ProtectedAccesModifierStudentExample.cs" />
     <Compile Include="ProtectedAccessModifierEx2.cs" />
+    <Compile Include="ProtectedAccessmodifierEx3.cs" />
     <Compile Include="ProtectedAccessModifierExample.cs" />
     <Compile Include="PublicAccessModExample.cs" />
     <Compile Include="SameDatatypeParameterizedconstructorEx.cs" />
