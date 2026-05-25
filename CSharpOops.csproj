@@ -88,6 +88,7 @@
     <Compile Include="ProtectedAccessModifierEx2.cs" />
     <Compile Include="ProtectedAccessmodifierEx3.cs" />
     <Compile Include="ProtectedAccessModifierExample.cs" />
+    <Compile Include="ProtectedAM.cs" />
     <Compile Include="PublicAccessModExample.cs" />
     <Compile Include="SameDatatypeParameterizedconstructorEx.cs" />
     <Compile Include="SOLIDPricipleConstructorExample.cs" />

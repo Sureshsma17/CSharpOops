@@ -12,8 +12,8 @@
 //        string branchname;
 //        string baddress;
 
-//        public Branch(int bid,string branchname,string baddress)
-//        { 
+//        public Branch(int bid, string branchname, string baddress)
+//        {
 //            this.bid = bid;
 //            this.branchname = branchname;
 //            this.baddress = baddress;
@@ -22,17 +22,17 @@
 //        {
 //            Console.WriteLine("Branch id is:" + bid);
 //            Console.WriteLine("Branch Name is:" + branchname);
-//            Console.WriteLine("Branch Address is:"+baddress);
+//            Console.WriteLine("Branch Address is:" + baddress);
 //        }
 //    }
 
-//    class Student:Branch
+//    class Student : Branch
 //    {
 //        int sid;
 //        string sname;
 //        string scollege;
 
-//        public Student(int sid,string sname,string scollege):base(111,"BBB","Ameerpet")
+//        public Student(int sid, string sname, string scollege) : base(111, "BBB", "Ameerpet")
 //        {
 //            this.sid = sid;
 //            this.sname = sname;
@@ -51,7 +51,7 @@
 //    {
 //        static void Main(string[] args)
 //        {
-//            Student obj = new Student(1,"john","IIIT");
+//            Student obj = new Student(1, "john", "IIIT");
 //            obj.StudentDisplay();
 //        }
 //    }

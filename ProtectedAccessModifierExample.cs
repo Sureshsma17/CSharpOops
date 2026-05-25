@@ -6,7 +6,7 @@
 
 //namespace CSharpOops
 //{
-//  class myclass
+//    class myclass
 //    {
 //        protected int a = 10;
 
@@ -30,7 +30,7 @@
 //        {
 //            newclass obj = new newclass();
 //            obj.Method();
-//            obj.Method2(); 
+//            obj.Method2();
 //        }
 //    }
 //}
