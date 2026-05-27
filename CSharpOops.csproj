@@ -57,6 +57,7 @@
     <Compile Include="EmployeeDeatailsEndUserUsingArray.cs" />
     <Compile Include="EmployeePublicAccess.cs" />
     <Compile Include="EmployeeExampleConstructor.cs" />
+    <Compile Include="Encapsulation_Ex2pin.cs" />
     <Compile Include="Encapsulation_Example.cs" />
     <Compile Include="ExplicitORUserDefinedDefaultConstructor.cs" />
     <Compile Include="FibonacciSeries.cs" />
