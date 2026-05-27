@@ -59,7 +59,8 @@
     <Compile Include="EmployeeExampleConstructor.cs" />
     <Compile Include="Encapsulation_Ex2pin.cs" />
     <Compile Include="Encapsulation_Example.cs" />
-    <Compile Include="Encaspulation_BankExample.cs" />
+    <Compile Include="Encapsupulation_BankExample.cs" />
+    <Compile Include="Encapsulation_ExHospitalPatient.cs" />
     <Compile Include="ExplicitORUserDefinedDefaultConstructor.cs" />
     <Compile Include="FibonacciSeries.cs" />
     <Compile Include="ImplicirORSystemDefinedDefaultConstructor.cs" />
