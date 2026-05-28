@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstraction_Examplecs.cs" />
+    <Compile Include="Abstraction_ExampleHMWBS.cs" />
     <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />
