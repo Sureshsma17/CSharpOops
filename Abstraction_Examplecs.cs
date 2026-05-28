@@ -33,7 +33,7 @@
 //    {
 //        static void Main(string[] args)
 //        {
-//            AbstractClass obj= new DerivedClass();
+//            AbstractClass obj = new DerivedClass();
 //            obj.Display();
 //            obj.Start();
 //            obj.Resume();

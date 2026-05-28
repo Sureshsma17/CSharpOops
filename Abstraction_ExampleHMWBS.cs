@@ -24,10 +24,10 @@
 //            double bill = units * 7;
 //            Console.WriteLine("Residential Customers bill is: " + bill);
 //        }
-        
+
 //    }
 
-//    class CommercialCustomers:HMWBS
+//    class CommercialCustomers : HMWBS
 //    {
 //        public override void GetBill(double units)
 //        {
@@ -36,7 +36,7 @@
 //        }
 //    }
 
-//    class IndustryCustomers:HMWBS
+//    class IndustryCustomers : HMWBS
 //    {
 //        public override void GetBill(double units)
 //        {
@@ -61,16 +61,16 @@
 //            obj.BillDetails();
 //            Console.WriteLine("Enter no.of units Consumed");
 
-//            double unit=Convert.ToDouble(Console.ReadLine());
+//            double unit = Convert.ToDouble(Console.ReadLine());
 //            obj.GetBill(unit);
 
-//            obj=new CommercialCustomers();
+//            obj = new CommercialCustomers();
 //            obj.GetBill(unit);
 
-//            obj= new IndustryCustomers();
+//            obj = new IndustryCustomers();
 //            obj.GetBill(unit);
 
-//            obj=new AgericultureCustomers();
+//            obj = new AgericultureCustomers();
 //            obj.GetBill(unit);
 //        }
 //    }

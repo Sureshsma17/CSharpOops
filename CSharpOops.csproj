@@ -49,9 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AAA.cs" />
+    <Compile Include="Abstact_Student_Teacher.cs" />
     <Compile Include="Abstraction_Examplecs.cs" />
     <Compile Include="Abstraction_ExampleElectricityBill.cs" />
     <Compile Include="Abstraction_ExampleHMWBS.cs" />
+    <Compile Include="Abstraction_SchoolManagement.cs" />
     <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />

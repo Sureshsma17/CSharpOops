@@ -25,7 +25,7 @@
 //            this.name = name;
 //            this.college = college;
 //        }
-//        public Student(int sid,string name)
+//        public Student(int sid, string name)
 //        {
 //            this.sid = sid;
 //            this.name = name;
@@ -35,7 +35,7 @@
 //        public void DisplayStudent()
 //        {
 //            Console.WriteLine("Student ID " + sid);
-//            Console.WriteLine("Student Name is "+name);
+//            Console.WriteLine("Student Name is " + name);
 //            Console.WriteLine("Student Collehe name is:" + college);
 //        }
 //    }
@@ -57,6 +57,6 @@
 //            pstu.DisplayStudent();
 //        }
 //    }
-    
-    
+
+
 //}
