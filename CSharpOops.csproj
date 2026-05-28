@@ -115,6 +115,7 @@
     <Compile Include="ThisKeyEndUserArray.cs" />
     <Compile Include="ThisKeyStudent.cs" />
     <Compile Include="ThisKeywordExample.cs" />
+    <Compile Include="VitualMethod_Example.cs" />
     <Compile Include="VowelsNumberInString.cs" />
   </ItemGroup>
   <ItemGroup>
