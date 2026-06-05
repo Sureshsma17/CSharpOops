@@ -10,10 +10,10 @@
 //    {
 //        public int InstanceCount = 0;//Instance variable(each object will have its own copy of variable)
 //        public static int StaticCount = 0;//Static variable(shared among all objects of the class)
-        
+
 //        public void Increment()
 //        {
-            
+
 //            InstanceCount++;//Local instance variable increases by 1 each time the method is called
 //            StaticCount++;//Static variable increases globally
 //            Console.WriteLine("Instance Count: " + InstanceCount);
@@ -35,7 +35,7 @@
 //            counter2.Increment(); // Instance Count: 1, Static Count: 3
 //            counter2.Increment(); // Instance Count: 2, Static Count: 4
 
-            
+
 //        }
 //    }
 //}

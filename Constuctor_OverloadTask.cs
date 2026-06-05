@@ -15,7 +15,7 @@
 //        public Student()
 //        {
 //            sid = 1;
-//            sname = "ABC";
+//            sname = "xyz";
 //        }
 //        public Student(int Sid)
 //        {
@@ -46,9 +46,8 @@
 //            Console.WriteLine("Student Age is:" + age);
 //        }
 //    }
-//    internal class ConstructorOverloadingExample
+//    internal class Constuctor_OverloadTask
 //    {
-
 //        static void Main(string[] args)
 //        {
 //            Student stu = new Student();
@@ -61,6 +60,4 @@
 //            stu3.DisplayStudent();
 //        }
 //    }
-
-
 //}

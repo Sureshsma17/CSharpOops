@@ -51,15 +51,22 @@
   <ItemGroup>
     <Compile Include="AAA.cs" />
     <Compile Include="Abstact_Student_Teacher.cs" />
+    <Compile Include="AbstractionSchoolMngmnt.cs" />
     <Compile Include="Abstraction_Examplecs.cs" />
     <Compile Include="Abstraction_ExampleElectricityBill.cs" />
     <Compile Include="Abstraction_ExampleHMWBS.cs" />
     <Compile Include="Abstraction_SchoolManagement.cs" />
+    <Compile Include="AbstractShape.cs" />
+    <Compile Include="AbstractSingleInheritancesExample.cs" />
     <Compile Include="ArmstrongNumber.cs" />
+    <Compile Include="BankAccount_Task1.cs" />
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />
     <Compile Include="ConstructorOverloadingEx.cs" />
     <Compile Include="ConstructorOverloadingExample.cs" />
+    <Compile Include="Constructor_In_AbstractClass.cs" />
+    <Compile Include="Constuctor_OverloadTask.cs" />
+    <Compile Include="DynamicPolyPaymentGateways.cs" />
     <Compile Include="EmployeeDeatailsEndUserUsingArray.cs" />
     <Compile Include="EmployeePublicAccess.cs" />
     <Compile Include="EmployeeExampleConstructor.cs" />
@@ -69,6 +76,9 @@
     <Compile Include="Encapsulation_ExHospitalPatient.cs" />
     <Compile Include="ExplicitORUserDefinedDefaultConstructor.cs" />
     <Compile Include="FibonacciSeries.cs" />
+    <Compile Include="HierachyInheritanceExample.cs" />
+    <Compile Include="Hierarchial_Inheritance.cs" />
+    <Compile Include="HierarchicalInhertanceEx.cs" />
     <Compile Include="ImplicirORSystemDefinedDefaultConstructor.cs" />
     <Compile Include="InheritanceExample.cs" />
     <Compile Include="InstanceCountStaticCountExample.cs" />
@@ -80,6 +90,7 @@
     <Compile Include="MethodWithParameterWithReturnValue.cs" />
     <Compile Include="NumberIncresing.cs" />
     <Compile Include="OverloadingConstructor.cs" />
+    <Compile Include="Overriding_Poly.cs" />
     <Compile Include="ParameterizedCarExample.cs" />
     <Compile Include="ParameterizedDataBaseConnection.cs" />
     <Compile Include="ParameterizedStudentd.cs" />
@@ -103,6 +114,7 @@
     <Compile Include="SameDatatypeParameterizedconstructorEx.cs" />
     <Compile Include="SOLIDPricipleConstructorExample.cs" />
     <Compile Include="SOLIDPrincipleClassExample.cs" />
+    <Compile Include="StaticVariableDemonstration.cs" />
     <Compile Include="StudentPublicAccess.cs" />
     <Compile Include="ReverseOfString.cs" />
     <Compile Include="StarDecresing&amp;HollowPattern.cs" />
