@@ -60,6 +60,7 @@
     <Compile Include="AbstractSingleInheritancesExample.cs" />
     <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="BankAccount_Task1.cs" />
+    <Compile Include="CallByValue_Ref_Out_Student.cs" />
     <Compile Include="ConnectionString.cs" />
     <Compile Include="ConstructorExample.cs" />
     <Compile Include="ConstructorOverloadingEx.cs" />
@@ -114,6 +115,7 @@
     <Compile Include="SameDatatypeParameterizedconstructorEx.cs" />
     <Compile Include="SOLIDPricipleConstructorExample.cs" />
     <Compile Include="SOLIDPrincipleClassExample.cs" />
+    <Compile Include="StaticClass.cs" />
     <Compile Include="StaticVariableDemonstration.cs" />
     <Compile Include="StudentPublicAccess.cs" />
     <Compile Include="ReverseOfString.cs" />
@@ -129,6 +131,9 @@
     <Compile Include="StarPyramid&amp;HollowPattern.cs" />
     <Compile Include="StringLengthWithoutUsingdotLength.cs" />
     <Compile Include="Studentage18to60.cs" />
+    <Compile Include="Task1_ArmstrongNumber.cs" />
+    <Compile Include="Task1_PalindromeandArmstrong.cs" />
+    <Compile Include="Task2_Employee.cs" />
     <Compile Include="ThisKeyEndUserArray.cs" />
     <Compile Include="ThisKeyStudent.cs" />
     <Compile Include="ThisKeywordExample.cs" />
