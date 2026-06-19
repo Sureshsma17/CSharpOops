@@ -49,18 +49,18 @@
 //        {
 //            static void Main(string[] args)
 //            {
-//                myclass obj=new myclass();
+//                myclass obj = new myclass();
 //                obj.Greet();
-//                int result =obj.Greet2();
+//                int result = obj.Greet2();
 //                Console.WriteLine("Resuly of Greet2:" + result);
 //                int subres = obj.sub();
-//                Console.WriteLine("Sub is {0}",subres);
+//                Console.WriteLine("Sub is {0}", subres);
 //                int mulres = obj.mul();
-//                Console.WriteLine("Mul is {0}",mulres);
+//                Console.WriteLine("Mul is {0}", mulres);
 //                int divres = obj.div();
-//                Console.WriteLine("Div is {0}",divres);
+//                Console.WriteLine("Div is {0}", divres);
 //            }
 //        }
 //    }
-    
+
 //}
